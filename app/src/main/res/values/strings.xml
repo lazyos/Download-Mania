@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Download Mania</string>
+    <string name="search_label">Search by keywords...</string>
+    <string name="search_button">Search</string>
+
+    <!-- actions on video -->
+    <string name="action_download_mp3">Download the mp3</string>
+    <string name="action_download_mp4">Download the mp4</string>
+    <string name="action_watch">Watch the video</string>
+</resources>

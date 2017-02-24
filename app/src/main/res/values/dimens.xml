@@ -1,0 +1,23 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Title -->
+    <dimen name="backdrop_title">30dp</dimen>
+    <dimen name="video_title_padding">10dp</dimen>
+    <dimen name="video_title">15dp</dimen>
+
+    <!-- Card -->
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_video_radius">0dp</dimen>
+
+    <!-- Video thumbnail -->
+    <dimen name="video_cover_height">120dp</dimen>
+    <dimen name="video_cover_width">120dp</dimen>
+
+    <!-- Action dots -->
+    <dimen name="ic_video_overflow_width">20dp</dimen>
+    <dimen name="ic_video_overflow_height">30dp</dimen>
+    <dimen name="ic_video_overflow_margin_top">10dp</dimen>
+</resources>
